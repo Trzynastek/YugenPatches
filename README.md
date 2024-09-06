@@ -1,4 +1,4 @@
-YungenPatches is a Firefox extension that modifies the YungenAnime website.
+YugenPatches is a Firefox extension that modifies the YugenAnime website.
 
 What it does:
 - Adds "My List" to the navbar.
