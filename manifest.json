@@ -1,0 +1,21 @@
+{
+	"manifest_version": 3,
+	"name": "YugenPatches",
+	"version": "0.2",
+	"description": "Adds a few features to YugenAnime.",
+	"icons": {
+		"48": "icon.png"
+	},
+	"content_scripts": [
+		{
+			"matches": ["https://yugenanime.tv/*"],
+			"js": ["yugenpatches.js"],
+			"css": ["yugenpatches.css"]
+		}
+	],
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "YugenPatches@trzynu"
+		}
+	}
+}
