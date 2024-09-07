@@ -10,3 +10,50 @@
 .list-entry-row {
 	padding-left: 5px;
 }
+.nav-item-more p {
+	margin-top: 6px;
+	font-size: 11px;
+}
+.navigation:not(.is--expanded) .noTitle,
+.navigation:not(.is--expanded) .noTitle p {
+	font-size: 0px !important;
+}
+.navigation:not(.is--expanded) .noTitle svg,
+.navigation:not(.is--expanded) .noTitle p {
+	margin: 0px !important;
+}
+.important {
+	color: rgb(var(--color-theme));
+}
+.important i {
+	color: rgb(var(--color-theme));
+	margin-right: 5px;
+}
+.list-schedule {
+	opacity: 0;
+	width: 0;
+	padding: 0 !important;
+}
+.anime-edit {
+	width: min-content;
+	padding: 0;
+	margin: 0;
+}
+.list-entry-schedule {
+	padding: 0;
+}
+.ep-card.box {
+	padding: 8px 10px 5px 10px !important;
+}
+.ep-list {
+	margin-bottom: 10px;
+}
+.ep-number {
+	color: rgb(var(--color-theme));
+}
+.ep-title-text {
+	margin-left: 10px;
+}
+.ep-current {
+	border-left: 3px solid rgb(var(--color-theme));
+}
