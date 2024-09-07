@@ -1,7 +1,7 @@
 {
 	"manifest_version": 3,
 	"name": "YugenPatches",
-	"version": "0.2",
+	"version": "0.3",
 	"description": "Adds a few features to YugenAnime.",
 	"icons": {
 		"48": "icon.png"
