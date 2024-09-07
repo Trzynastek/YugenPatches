@@ -1,7 +1,12 @@
 YugenPatches is a Firefox extension that modifies the YugenAnime website.
 
-What it does:
-- Adds "My List" to the navbar.
-- Displays animes with unwatched episodes first in the watch list.
-- Adds a green dot next to animes with unwatched episodes in the watch list.
-- Changes the click behavior of animes in the watch list to go to the last watched episode instead of the anime page.
+> [!NOTE]
+> Settings for all of the tweaks can be found under the website settings.
+
+Features:
+ - Navigation bar customization
+ - Episode list tweaks
+ - Homepage tweaks
+ - Watch list tweaks
+ - Custom accent color
+ - Everything is configurable
